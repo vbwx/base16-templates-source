@@ -1,7 +1,14 @@
+emacs: https://github.com/belak/base16-emacs
+highlight: https://github.com/bezhermoso/base16-highlight
 html-preview: https://github.com/chriskempson/base16-html-preview
+mintty: https://github.com/iamthad/base16-mintty
+prism: https://github.com/atelierbram/base16-prism
+putty: https://github.com/abravalheri/base16-putty
+qtcreator: https://github.com/ilpianista/base16-qtcreator
 shell: https://github.com/chriskempson/base16-shell
 textmate: https://github.com/chriskempson/base16-textmate
 terminal-app: https://github.com/vbwx/base16-terminal-app
 vim: https://github.com/chriskempson/base16-vim
+windows-command-prompt: https://github.com/iamthad/base16-windows-command-prompt
 xfce4-terminal: https://github.com/afg984/base16-xfce4-terminal
 xresources: https://github.com/chriskempson/base16-xresources
