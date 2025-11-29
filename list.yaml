@@ -25,6 +25,6 @@ textmate: https://github.com/chriskempson/base16-textmate
 terminal-app: https://github.com/vbwx/base16-terminal-app
 vim: https://github.com/chriskempson/base16-vim
 windows-command-prompt: https://github.com/iamthad/base16-windows-command-prompt
-xcode: https://github.com/kreeger/base16-xcode
+xcode: https://github.com/vbwx/base16-xcode
 xfce4-terminal: https://github.com/afg984/base16-xfce4-terminal
 zathura: https://github.com/nicodebo/base16-zathura
