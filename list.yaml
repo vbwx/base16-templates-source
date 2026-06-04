@@ -1,3 +1,5 @@
 # Please order list alphanumerically
+syntax-highlight: https://github.com/vbwx/base16-syntax-highlight
 terminal-app: https://github.com/vbwx/base16-terminal-app
+textmate: https://github.com/vbwx/base16-textmate
 xcode: https://github.com/vbwx/base16-xcode
